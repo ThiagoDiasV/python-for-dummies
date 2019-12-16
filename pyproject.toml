@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "dummies"
+version = "0.1.0"
+description = ""
+authors = ["ThiagoDiasV <thiago76ers@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+mkdocs = "^1.0.4"
+mkdocs-material = "^4.6.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

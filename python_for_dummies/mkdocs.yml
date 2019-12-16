@@ -1,0 +1,19 @@
+site_name: Python for Dummies
+# repo_url:
+
+theme:
+  name: 'material'
+
+extra_css:
+  - themes/css/extra_css.css
+
+nav:
+  - Home: 'index.md'
+  - Parte I - Python Básico:
+      - 'Instalação': 'Parte I - Python Básico/installing.md'
+  - Parte II - Sequências:
+      - 'Em breve': 'Parte II - Sequências/soon.md'
+  - Parte III - Funções:
+      - 'Em breve': 'Parte III - Funções/soon.md'
+  - Parte IV - Programação Orientada a Objetos:
+      - 'Em breve': 'Parte IV - Programação Orientada a Objetos/soon.md'
